@@ -1,5 +1,5 @@
 # shodancheat
-step 1 brute asn with bruteASN.py (untuk menghasilkan angka random ASN) usage : python generate_asn.py
+step 1 brute asn with bruteASN.py (untuk menghasilkan angka random ASN) usage : python bruteASN.py
 
 step 2 asncek.sh (untuk validasi nomor ASN sekaligus menghasilkan prefix asn) usage : asncek.sh cidrs.txt
 
