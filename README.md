@@ -9,3 +9,13 @@ step 4 rotateip.sh (meng rotate nordvpn agar anonim ) usage :rotateip.sh
 
 step 5 shodanapi.sh ( meng lookup seluruh ip addres agar mendapatkan CVE) usage: shodanapi.sh
 
+#comming soon 
+step 6 simpan hasil ke dalam xml ke SQL database 
+
+step 7 buat model file untuk Langchain deepseek buat analisis cve kerentanan dll
+
+step 8 kaitkan SQL dengan Langchain 
+
+step 9 analisis dengan Langchain menggunakan api deepseek seperti severity dll pada file kerentanan tadi yg sudah di simpan di dalam sql
+
+
