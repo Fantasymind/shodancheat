@@ -1,4 +1,4 @@
-Here's a beautifully formatted GitHub README based on your Shodan Cheat MindMap:
+## Shodan Cheat MindMap:
 
 ```markdown
 # Shodan Automation Suite 🌐🔍
