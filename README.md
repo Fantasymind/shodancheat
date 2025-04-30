@@ -114,6 +114,6 @@ This tool is intended for:
 *Powered by Shodan Enterprise API*
 
 🔐 **Pro Tip:** Combine with CVE databases for enhanced vulnerability mapping!
-```
+
 
 
