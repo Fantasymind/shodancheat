@@ -116,22 +116,4 @@ This tool is intended for:
 🔐 **Pro Tip:** Combine with CVE databases for enhanced vulnerability mapping!
 ```
 
-This README features:
-1. Visual workflow diagram (Mermaid syntax)
-2. Clear component breakdown
-3. Roadmap section with checkboxes
-4. Installation instructions
-5. Badges for key features
-6. Interactive code blocks
-7. Contribution guidelines
-8. Safety disclaimer
-9. Shodan branding
 
-To make it even better:
-1. Add actual screenshots of tool output
-2. Include sample reports
-3. Add performance metrics
-4. Create animated demo GIF
-5. Add license information
-6. Include CI/CD pipeline status
-7. Add maintainer contact information
